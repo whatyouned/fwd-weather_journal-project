@@ -1,9 +1,9 @@
- // Weather-Journal App Project //
+# Weather-Journal App Project:
 
   This is my second project, and I hope to be successful in using the tools that I learned to implement what is required of me in this project.
 
  
- // Overview // 
+## Overview:
 
 * I created an asynchronous web app that uses Web API and user data to dynamically update the UI. 
 * I used ES6 when writing the code.
@@ -12,7 +12,7 @@
 * I used extention on the URL (&units=metric) to get the Celsius Temperature.
 * I wrote comments to make the code more readable.
 
- // How to use // 
+## How to use:
 
 * All you should do is write the ZIP code of the city (United States).
 * You can write your feelings if you want [optional].
@@ -23,7 +23,7 @@
   - description of weather.
   - your feelings.
 
-  // resources // 
+## resources:
 
 * https://classroom.udacity.com/
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
