@@ -1,8 +1,8 @@
-# Weather-Journal App Project:
+# Weather-Journal Back-End App Project:
 
   This project deals with weather API by Java-Script and Node-JS using some tools,like "express", "body-parser",and "cors".
  
-## Overview:
+## What is used technology?:
 
 * I created an asynchronous web app that uses Web API and user data to dynamically update the UI. 
 * I used ES6 when writing the code.
