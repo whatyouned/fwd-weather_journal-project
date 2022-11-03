@@ -1,6 +1,6 @@
 # Overview:
 
-  This is Back-End project ,deals with weather API, by Java-Script and Node-JS by using some tools, like "express", "body-parser",and "cors".
+  This is Back-End project, deals with weather API, by Java-Script and Node-JS by using some tools, like "express", "body-parser",and "cors".
  
 ## used technology:
 
