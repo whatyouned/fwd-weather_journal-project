@@ -1,21 +1,21 @@
 # Overview:
 
-  This project deals with weather API by Java-Script and Node-JS using some tools,like "express", "body-parser",and "cors".
+  This project deals with weather API by Java-Script and Node-JS using some tools, like "express", "body-parser",and "cors".
  
 ## used technology:
 
-* I created an asynchronous web app that uses Web API and user data to dynamically update the UI. 
-* I used ES6 when writing the code.
-* I made some modifying to HTML and CSS files to make the layout more simple as I can.
-* I added a small tag to display the error message which comes from API.
-* I used extention on the URL (&units=metric) to get the Celsius Temperature.
-* I wrote comments to make the code more readable.
+* WE created an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+* WE used ES6 when writing the code.
+* WE made some modifying to HTML and CSS files to make the layout more simple as I can.
+* WE added a small tag to display the error message which comes from API.
+* WE used extention on the URL (&units=metric) to get the Celsius Temperature.
+* WE wrote comments to make the code more readable.
 
 ## How to use:
 
-* write the ZIP code of the city (United States).
+* You can write the ZIP code of the city (United States).
 * You can write your feelings if you want (optional).
-* The application will show you.
+* The application will show:
   - the name of the city. 
   - the temperature.
   - the date.
