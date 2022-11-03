@@ -1,7 +1,6 @@
 # Weather-Journal App Project:
 
-  This is my second project, and I hope to be successful in using the tools that I learned to implement what is required of me in this project.
-
+  This project deals with weather API by javascript using the tools 
  
 ## Overview:
 
@@ -23,7 +22,7 @@
   - description of weather.
   - your feelings.
 
-## resources:
+## our resources:
 
 * https://classroom.udacity.com/
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
