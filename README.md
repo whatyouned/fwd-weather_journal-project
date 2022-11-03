@@ -1,6 +1,6 @@
 # Weather-Journal App Project:
 
-  This project deals with weather API by javascript using the tools 
+  This project deals with weather API by Java-Script and Node-JS using some tools,like "express", "body-parser",and "cors".
  
 ## Overview:
 
