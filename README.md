@@ -25,7 +25,14 @@
 ## Our resources:
 
 * https://classroom.udacity.com/
-* https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
-* https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 * https://openweathermap.org/current#zip
 * https://bithacker.dev/fetch-weather-openweathermap-api-javascript
+* https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+* https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+* https://expressjs.com/en/guide/routing.html
+* https://javascript.info/promise-chaining
+* https://github.com/udacity/fend/tree/refresh-2019/projects/weather-journal-app/commentsOnlyJS
+* https://github.com/udacity/fend/tree/refresh-2019
+
+
+
